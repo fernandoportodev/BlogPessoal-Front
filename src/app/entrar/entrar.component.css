@@ -1,0 +1,9 @@
+#img-bg{
+  background-image: url('https://i.imgur.com/f1024H4.jpg');
+
+  min-height: 100vh;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
